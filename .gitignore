@@ -1,0 +1,14 @@
+fastcgi.conf
+fastcgi_params
+koi-utf
+koi-win
+modules-enabled/
+nginx.conf.bak
+proxy_params
+scgi_params
+sites-available/
+sites-enabled/
+snippets/
+uwsgi_params
+win-utf
+
